@@ -27,6 +27,8 @@ pip install -r requirements.txt
 # 🚀 How to Run
 python pdf.py
 
+# Direct run
+Download the Latest release pdf_32 (for 32 bit Operating System) and pdf_64 (for 64 bit Operating System)
 
 # 🧑‍💻 Author
 Tushar Kumar
